@@ -15,3 +15,5 @@ descripción cuantitativa del timbre. Sin embargo, se han propuesto
 herramientas de análisis que incluyen decenas de descriptores. Es el
 objetivo central de este trabajo emplear técnicas de inteligencia artificial con el
 fin de estimar las dimensiones del espacio tímbrico.
+
+El Proyecto se encuentra en desarrollo en el marco de mi tesis de licenciatura en el Departamente de la Fisica FCEN-UBA. 
